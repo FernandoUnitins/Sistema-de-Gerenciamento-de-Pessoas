@@ -20,27 +20,27 @@ Este é um sistema simples de gerenciamento de pessoas implementado em Java. O s
 
 Ao executar o sistema, ele irá cadastrar duas pessoas e, em seguida, atualizar os dados da primeira pessoa. Veja abaixo um exemplo da saída esperada:
 
-Informações iniciais:
-Pessoa 1:
-Nome: João Silva
-CPF: 123.456.789-00
-Idade: 30
+Informações iniciais:  
+Pessoa 1:  
+Nome: João Silva  
+CPF: 123.456.789-00  
+Idade: 30  
 
-Pessoa 2:
-Nome: Maria Souza
-CPF: 987.654.321-00
-Idade: 25
+Pessoa 2:  
+Nome: Maria Souza  
+CPF: 987.654.321-00  
+Idade: 25  
 
-Informações após atualização:
-Pessoa 1:
-Nome: João Silva Jr.
-CPF: 123.456.789-00
-Idade: 31
+**Informações após atualização:**  
+Pessoa 1:  
+Nome: João Silva Jr.  
+CPF: 123.456.789-00  
+Idade: 31  
 
-Pessoa 2:
-Nome: Maria Souza
-CPF: 987.654.321-00
-Idade: 25
+Pessoa 2:  
+Nome: Maria Souza  
+CPF: 987.654.321-00  
+Idade: 25  
 
 ## Como a lógica de encapsulamento foi aplicada no sistema:
 
